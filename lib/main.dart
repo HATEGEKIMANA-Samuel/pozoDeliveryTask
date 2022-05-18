@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'models/widgets/custom_app_bar.dart';
+import 'widgets/custom_app_bar.dart';
 
 void main() {
   runApp(MyApp());
